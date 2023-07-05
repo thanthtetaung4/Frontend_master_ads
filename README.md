@@ -1,2 +1,2 @@
-# Frontend_master_ads
+# algorithms-exercises
 Created with CodeSandbox
